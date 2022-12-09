@@ -26,5 +26,8 @@ These datasets need to be uploaded under these directories on google colab for t
 
 3. The models/ directory in this repository contains the model and the weights associated with the badnet model which whill be required to run the code. These need to be uploaded on colab as well under the following directory:
 
-models/bd_net.h5
-models/bd_weights.h5
+#### Model:
+'models/bd_net.h5'
+
+#### Weights:
+'models/bd_weights.h5'
