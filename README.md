@@ -7,7 +7,7 @@ Files created and submitted in here are as part of solution to lab2.
 ## I. The repository contains the following files:
 
 1. The .ipynb (Homework_2_ps4425.ipynb) file containing all the code that I have written as part of my solution to lab2.
-2. The direcotry 'models/' contains the files for the badnet model.
+2. The directory 'models/' contains the files for the badnet model.
 3. Empty data directories : 'data/bd' and 'data/cl' since the datasets were too large to upload on github. They need to be manually uploaded to google colab from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq) into respective directories while running the code.
 
 ## II. Following steps are needed to run my code:
