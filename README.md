@@ -14,13 +14,13 @@ Projects created and submitted as part of course - Machine Learning in Cyber Sec
 2. Datasets required to run my code could not be uploaded to the data/ directory in this repository due to its large size. But the path to the dataset as specified in my code is:
 
 #### For clean validation data:
-data/cl/valid.h5
+'data/cl/valid.h5'
 
 #### Clean test data:
-data/cl/test.h5
+'data/cl/test.h5'
 
 #### Poisoned test data:
-data/bd/bd_test.h5
+'data/bd/bd_test.h5'
 
 These datasets need to be uploaded under these directories on google colab for the code to run.
 
